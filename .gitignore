@@ -48,3 +48,9 @@ app.*.map.json
 assets/stt/model.int8.onnx
 assets/tts/hi_IN-rohan-medium.onnx
 assets/tts/hi_IN-rohan-medium.onnx.json
+
+iTantra_Build_Narrative.md
+FUTURE_IMPROVEMENTS.md
+SWAPPING_MODELS.md
+tech_datails.md
+web/
