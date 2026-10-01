@@ -3,6 +3,9 @@ Offline Android app for disaster/distress communication — on-device Hindi STT 
 
 > By Team ***"Bay Harbour Hackers"***
 
+## Blueprint Architecture of iTantra SOS
+![Blueprint](Blueprint/blueprint.png)
+
 ```structure
 GitHub Repository Important files
 iTantra/
@@ -31,9 +34,6 @@ iTantra/
 ├── pubspec.yaml  ----> Contains the dependencies of this project
 └── README.md
 ```
-
-## Blueprint Architecture of iTantra SOS
-![Blueprint](Blueprint/blueprint.png)
 
 ## Team Members
 1. Asjad Noyan Syed (*Team Leader*)
