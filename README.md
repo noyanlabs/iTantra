@@ -1,5 +1,5 @@
 # iTantra SOS
-Offline Android app for disaster/distress communication with on-device Hindi STT ↔ TTS over WiFi Direct, walkie-talkie style.
+Offline Android app for disaster/distress communication with on-device Hindi STT - TTS over WiFi Direct, walkie-talkie style.
 
 > By Team ***"Bay Harbour Hackers"***
 
